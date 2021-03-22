@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 1231-CAEE
+
+ Directory of C:\Users\Srinu\Desktop\MyProject
+
+22-03-2021  10:45    <DIR>          .
+22-03-2021  10:45    <DIR>          ..
+22-03-2021  10:45                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  133,625,581,568 bytes free
